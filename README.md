@@ -20,7 +20,9 @@ I study **Computer Science and Mathematics at NYU** (Class of 2028). I like buil
 ## 🧰 Tech
 
 **Languages:** Python · Java · C · C++ · JavaScript/TypeScript · R · x86-64 Assembly
+
 **Frameworks:** React · Next.js · FastAPI · Flask · .NET MAUI · PyTorch · scikit-learn · pandas
+
 **Tools:** AWS (S3, EC2) · Supabase/PostgreSQL · Docker · Kubernetes · GitHub Actions · Git · Linux
 
 ## 📫 Connect
