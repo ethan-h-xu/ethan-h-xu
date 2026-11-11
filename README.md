@@ -13,7 +13,7 @@ I study **Computer Science and Mathematics at NYU** (Class of 2028). I like buil
 
 **Frameworks:** React · Next.js · FastAPI · Flask · .NET MAUI · PyTorch · scikit-learn · pandas
 
-**Tools:** AWS (S3, EC2) · Supabase/PostgreSQL · Docker · Kubernetes · GitHub Actions · Git · Linux
+**Tools:** AWS (S3, EC2, Cloudwatch, ALB) · Supabase/PostgreSQL · Docker · Kubernetes · GitHub Actions · Git · Linux
 
 ## 📫 Connect
 
